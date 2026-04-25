@@ -1,0 +1,10 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: gray;
+  padding-left: 190px;
+  padding-top: 20px;
+}
+canvas {
+  display: block;
+}
